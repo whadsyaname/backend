@@ -24,7 +24,7 @@
     "prettier": "^2.8.7"
   },
   "scripts": {
-    "start": "node src",
+    "start": "node src/main.js",
     "start:dev": "nodemon --watch src/ src/main.js"
   },
   "type": "module"
